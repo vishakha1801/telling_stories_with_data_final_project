@@ -15,6 +15,57 @@
 Part I established that LEGO has evolved in complexity. Part II moves beyond identifying change and instead clarifies *how that change is experienced* by the reader. This document reframes the work as an intentional narrative journey that combines data, memory, and cultural analysis.
 
 ---
+## 🧭 Wireframes & Storyboards (Process Documentation)
+
+The following screens function as high-fidelity wireframes and an early storyboard for *How LEGO Grew Up*. They document the planned structure of the narrative experience before final execution, showing how visual form, story logic, and audience intent were deliberately mapped.
+
+Rather than serving as decorative slides, these wireframes represent the structural backbone of the project. They demonstrate how the reader is guided through the story, how different audience needs are acknowledged, and how the visual journey is sequenced to support interpretation and strategy.
+
+---
+
+### Wireframe 1: Entry Screen — Narrative Positioning & Tone
+
+![How LEGO Grew Up – Title Screen](wireframe2.png)
+
+This screen establishes the project’s visual identity and narrative tone. It signals the shift from casual scrolling to an intentional, guided experience. The hierarchy (title → call-to-action → spatial framing) communicates both authority and invitation, positioning the story as immersive and thoughtfully structured.
+
+This wireframe demonstrates:
+
+* Clear narrative entry point
+* Visual hierarchy and reading order
+* Design language aligned with LEGO’s brand identity
+
+---
+
+### Wireframe 2: User Personas — Audience Framing & Scenario Mapping
+
+![User Personas Screen](wireframe1.png)
+
+This frame visualizes the three core personas: Product Strategist, LEGO Enthusiast, and Culture Observer, and shows how the storytelling is designed to accommodate multiple modes of engagement (strategic, emotional, and observational). It reinforces that the narrative is not singular, but adaptive to different interpretive lenses.
+
+This wireframe demonstrates:
+
+* Audience-centered design thinking
+* Intentional sequencing from entry → audience → narrative
+* Scenarios of use that guide tone and content decisions
+* Visual clarity in representing reader diversity
+
+---
+
+### How these wireframes fulfill the storyboard requirement
+
+Together, these screens illustrate the necessary progression and planning required for a strong storyboard. They clearly show:
+
+* A coherent outline moving from introduction → audience → strategic narrative
+* High-fidelity prototypes representing individual narrative moments
+* Logical information flow that supports comprehension and interpretation
+* Visual planning that ensures data visualizations appear in meaningful context
+* Scenarios of use that bring opportunity areas and design intent to life
+
+When paired with the seven core data visualizations that follow, these wireframes confirm that the story structure is intentional, navigable, and aligned with the strategic goals of the project — ensuring the reader experience is both visually engaging and conceptually grounded.
+
+
+---
 
 ## 🪼 Audience & Story Purpose
 
